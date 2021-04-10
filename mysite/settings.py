@@ -25,7 +25,7 @@ SECRET_KEY = 'ud94synp-o6%e5@_zxe(nac)o&+s7hx9n7z03*s=dx$&)-gepf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'majskolben.pythonanywhere.com/']
+ALLOWED_HOSTS = ['127.0.0.1', 'majskolben.pythonanywhere.com']
 
 
 
